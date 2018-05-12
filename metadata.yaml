@@ -1,0 +1,31 @@
+_repo: Lord-Randolph-Churchill_42817
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 42817-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Churchill, Winston
+    aliases:
+    - Churchill, Winston Spencer
+    - Churchill, Winston Leonard Spencer, Sir
+    birthdate: 1874
+    deathdate: 1965
+    gutenberg_agent_id: '1601'
+    url: http://www.gutenberg.org/2009/agents/1601
+    wikipedia: http://en.wikipedia.org/wiki/Winston_Churchill
+description: ''
+gutenberg_issued: '2013-05-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '42817'
+  lccn: '65059046'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'DA'
+- !lcsh 'Churchill, Randolph Henry Spencer, Lord, 1849-1895'
+title: Lord Randolph Churchill
+url: http://www.gutenberg.org/ebooks/42817
